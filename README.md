@@ -1,4 +1,9 @@
 # LSAT-TestData
+
+
+[![DOI](https://zenodo.org/badge/386313561.svg)](https://zenodo.org/badge/latestdoi/386313561)
+
+
 Landslide Susceptibility Assessment Tools - Project Manager Suite - TestData
 
 The example or test dataset is an excerpt of the data collected in the German-Pakistani technical cooperation project Georisk Assessment Northern Pakistan (GANP), carried out by the Federal Institute for Geosciences and Natural Resources and Geological Survey of Pakistan. The dataset covers approximately 664 square kilometres, including parts of the Kaghan and Siran Valleys in Khyber Pakhtunkhwa, Northern Pakistan.
